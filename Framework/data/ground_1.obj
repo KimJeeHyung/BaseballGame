@@ -1,0 +1,32 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 06.11.2022 16:32:16
+
+mtllib ground_1.mtl
+
+#
+# object ground
+#
+
+v -100.00000.0000 -100.0000
+v -100.00000.0000 100.0000
+v 100.00000.0000 100.0000
+v 100.00000.0000 -100.0000
+# 4 vertices
+
+vn 0.0000 1.0000 0.0000
+# 1 vertex normals
+
+vt 0.0200 0.0200 0.0000
+vt 0.9800 0.0200 0.0000
+vt 0.9800 0.9800 0.0000
+vt 0.0200 0.9800 0.0000
+# 4 texture coords
+
+o ground
+g ground
+usemtl ground_Grass
+s 1
+f 1/1/1 2/2/1 3/3/1 
+f 3/3/1 4/4/1 1/1/1 
+# 0 polygons - 2 triangles
+

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\Visual Studio Projects\University\ComputerGraphicsPractice(2)\Framework_221209\x64\Debug\Framework.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\Visual Studio Projects\University\ComputerGraphicsPractice(2)\Framework_221209\x64\Debug\skydome_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Visual Studio Projects\University\ComputerGraphicsPractice(2)\Framework_221209\x64\Debug\skydome_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Visual Studio Projects\University\ComputerGraphicsPractice(2)\Framework_221209\x64\Debug\skyplane_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Visual Studio Projects\University\ComputerGraphicsPractice(2)\Framework_221209\x64\Debug\skyplane_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
